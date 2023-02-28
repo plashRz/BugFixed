@@ -4,11 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02cf5078-ca4b-4d58-afaa-40ac2d16e99b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TheDesk/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheDesk/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InfoDoc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/expenses.txt" afterDir="false" />
+    <list default="true" id="02cf5078-ca4b-4d58-afaa-40ac2d16e99b" name="Default Changelist" comment="fixed">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +80,16 @@
       <option name="presentableId" value="Default" />
       <updated>1555909784875</updated>
       <workItem from="1677605068165" duration="626000" />
-      <workItem from="1677605708091" duration="6655000" />
+      <workItem from="1677605708091" duration="6968000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed">
+      <created>1677612572844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677612572844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -133,6 +137,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">

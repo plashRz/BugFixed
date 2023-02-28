@@ -1,3 +1,4 @@
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -79,11 +80,11 @@ public class Main {
                         System.out.println("You are about the delete all your expenses! \nConfirm again by selecting the same option...\n");
                         int con_choice = sc.nextInt();
                         if(con_choice==options){
-                               expenses.clear();
-                               System.out.println(expenses+"\n");
-                               fw = new FileWriter(exp);
-                               fw.write("");
-                               fw.close();
+                            expenses.clear();
+                            System.out.println(expenses+"\n");
+                            fw = new FileWriter(exp);
+                            fw.write("");
+                            fw.close();
                             System.out.println("All your expenses are erased!\n");
                         } else {
                             System.out.println("Oops... try again!\n");
@@ -112,7 +113,7 @@ public class Main {
     }
     private static void closeApp() {
         System.out.println("Closing your application... \nThank you!");
-            }
+    }
     private static void searchExpenses(ArrayList<Integer> arrayList) {
 
         System.out.println("Enter the expense you need to search:\t");
